@@ -17,36 +17,31 @@ My web is about storing and managing products ,orders... of shoes ,this is a sig
 - **Back-End:** Nodejs (framework express),JWT, Restful Api
 - **Database:** MongoDB
 ## demo
-### client page
-<br>
-<center><img src="images/home.png"/></center>
-<br>
+**home page**
+<div style="display: flex; justify-content: space-between; margin: 20px;">
+    <center><img src="images/home.png"/></center>
+</div>
+
+**products page**
 <center><img src="images/products.png"/></center>
-<br>
+
+**products detail**
 <center><img src="images/productDetail.png"/></center>
-<br>
+
+**cart page**
 <center><img src="images/cart.png"/></center>
 
-### user infomation page
+**user infomation page**
 
 <center><img src="images/user.png"/></center>
-<br>
 <center><img src="images/orders.png"/></center>
-<br>
 <center><img src="images/address.png"/></center>
-<br>
 <center><img src="images/order.png"/></center>
-<br>
-<center><img src="images/o.png"/></center>
-<br>
 
-### admin page
+**admin page**
 
 <center><img src="images/productsAdmin.png"/></center>
-<br>
 <center><img src="images/orderAdmin.png"/></center>
-<br>
 <center><img src="images/permission.png"/></center>
-<br>
 
 
