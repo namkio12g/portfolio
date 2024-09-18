@@ -16,9 +16,8 @@ My web is about storing and managing products ,orders... of shoes ,this is a sig
 - **Front-End :**  Boostrap,HTML,CSS,Pug,Javascript.
 - **Back-End:** Nodejs (framework express),JWT, Restful Api
 - **Database:** MongoDB
-**Demo:** 
-- **client page** 
-
+## demo
+### client page
 <br>
 <center><img src="images/home.png"/></center>
 <br>
@@ -28,7 +27,7 @@ My web is about storing and managing products ,orders... of shoes ,this is a sig
 <br>
 <center><img src="images/cart.png"/></center>
 
-- **user infomation page**
+### user infomation page
 
 <center><img src="images/user.png"/></center>
 <br>
@@ -41,7 +40,7 @@ My web is about storing and managing products ,orders... of shoes ,this is a sig
 <center><img src="images/o.png"/></center>
 <br>
 
-- **user infomation page**
+### admin page
 
 <center><img src="images/productsAdmin.png"/></center>
 <br>
