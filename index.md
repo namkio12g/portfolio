@@ -12,7 +12,9 @@ My web is about storing and managing products ,orders... of shoes ,this is a sig
 - **Authorization:** Initially , i intended to use AuthorizeApi after each API route to verify the role's permission. However ,the primary reason for handling it through view filtering is to prevent roles without the necessary permissions from even being aware of the existence of certain functionalities.
 - **Orders Management:** With the appropriate permission ,the staff can update the status of orders.An order can be canceled at anytime,as long as its status is not in certain specific states . The customer of the order is also allowed to cancel it too.
 - **User infomation handling:** Manage users' data such as addresses, orders, and personal details.
+
 **Techonologies used:** 
+
 - **Front-End :**  Boostrap,HTML,CSS,Pug,Javascript.
 - **Back-End:** Nodejs (framework express),JWT, Restful Api
 - **Database:** MongoDB
